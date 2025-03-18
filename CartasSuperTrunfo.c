@@ -8,32 +8,30 @@
   float area;             // Aréa em km²
   float pib;              // PIB em bilhões de Reais
   int pontosturisticos;   // numeros de pontos turísticos
-  
 
   int main(){
 
-      Carta 1:
-      Estado: G
-      Código: G01
-      Nome da Cidade: Goiânia
-      População: 2654860
-      Área: 728.8 km²
-      PIB: 59.8 bilhões de reais
-      Número de Pontos Turísticos: 37
+    printf("Bem-vindo ao jogo de Super Trunfo - Tema: Cidades!");
+    printf("Escolha uma carta:");
 
-      Carta 2:
-      Estado: P
-      Código: P02
-      Nome da Cidade: Curitiba
-      População: 1774000
-      Área: 432 km²
-      PIB: 98 bilhões de reais
-      Número de Pontos Turísticos: 35    
-    
+    Carta 1:
+    Estado: G
+    Código: G01
+    Nome da Cidade: Goiânia
+    População: 2.654,860
+    Área: 728.8 km²
+    PIB: 59.8 bilhões de reais
+    Número de Pontos Turísticos: 37
+     
+    Carta 2:
+    Estado: P
+    Código: P02
+    Nome da Cidade: Curitiba
+    População: 1.774,0
+    Área: 432 km²
+    PIB: 98 bilhões de reais
+    Número de Pontos Turísticos: 35
 
-  printf("Bem-vindo ao jogo de Super Trunfo - Tema: Cidades!\n");
-  printf("Escolha uma carta:\n");
- 
 
  
 
